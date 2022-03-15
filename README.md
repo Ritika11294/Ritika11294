@@ -4,19 +4,18 @@
 <h4>About Me</h4>
 🎓   Learning Full Stack Web Development, MERN stack, Javascript and its frameworks
       at Masai Schook remotely.
-      
+  
 🌱   Learning Data Structures and Algorithms.
-
+</br>
 💼   I aspire to work as a full stack web developer.
-
+</br>
 👯‍♂️   I’m looking to collaborate on javascript projects that involve react,redux and   node and lot of learnings.
-
+</br>
 ⚡ Fun fact I love travelling, listening to music.
 </br>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-Ritika11294&style=flat-square&label=Profile+Views)
-<img src="https://badges.pufler.dev/Commits/yearly/Ritika11294" />
 </br>
 </br>
 
