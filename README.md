@@ -52,8 +52,17 @@
 ## 📊 My Github Stats
 
  <br/>
-    <a href="https://github.com/RitikaGupta/github-readme-stats"><img alt=" Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=Ritika11294&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ritika11294/github-readme-stats"><img alt="Ritika11294 Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika11294&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ritika11294/github-readme-stats"><img alt="Ritika Gupta's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=Ritika11294&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ritika11294/github-readme-stats"><img alt="Ritika Gupta's Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika11294&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
+<br/>
+
+</br>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
 
 
 <br/>
