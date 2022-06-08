@@ -3,7 +3,7 @@
 
 <h4>About Me</h4>
 🎓   Learning Full Stack Web Development, MERN stack, Javascript and its frameworks
-      at Masai Schook remotely.
+      at Masai School remotely.
   
 🌱   Learning Data Structures and Algorithms.
 </br>
